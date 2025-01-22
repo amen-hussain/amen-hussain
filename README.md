@@ -11,4 +11,3 @@ I'm **Amen Hussain**, an aspiring **healthcare data analyst**. My passion lies i
 
 ![Amen's GitHub stats](https://github-readme-stats.vercel.app/api?username=amen-hussain&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amen-hussain)](https://github.com/amen-hussain/github-readme-stats)
