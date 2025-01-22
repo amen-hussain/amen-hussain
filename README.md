@@ -9,4 +9,4 @@ I'm **Amen Hussain**, an aspiring **healthcare data analyst**. My passion lies i
 - 👯 I’m looking to collaborate on **health data analytics, EHR optimization, and AI-driven healthcare solutions**.  
 - 😄 Pronouns: **She/Her**  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiamen-hussainanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Amen's GitHub stats](https://github-readme-stats.vercel.app/api?username=amen-hussain)](https://github.com/amen-hussain/github-readme-stats)
